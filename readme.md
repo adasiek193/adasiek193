@@ -5,3 +5,5 @@
 <h1> Socials 💻 </h1> 
 
 <p> All socials will be availble on my <a href="http://adasiek.xyz" target="_blank" style="text-decoration: none">website (rework)</a> currently u can get it on <a href="https://linktr.ee/adasiek" target="_blank" style="text-decoration: none" > linktree</a> </p>
+
+![](https://komarev.com/ghpvc/?username=adasiek193&color=blue)
