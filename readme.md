@@ -2,7 +2,7 @@
 
 <p> created thousands of shit discord bots, now im trying to learn frontend</p>
 
-<h1> Socials 💻 </h1> 
+<h2> Socials 💻 </h2> 
 
 <p> All socials are in my <a href="https://adasiek.xyz" target="_blank" style="text-decoration: none">website</a> </p>
 
