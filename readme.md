@@ -1,9 +1,6 @@
-<h1> hi, im <b> adasiek </b>, skidder from poland </h1>
+<h1> hi im adasiek, professional skid and non professional apex legends bot<h1>
 
-<p> created thousands of shit discord bots, now im trying to learn frontend</p>
-
-<h2> socials 📲 </h2> 
-
-<p> All socials are in my <a href="https://adasiek.xyz/socials.html" target="_blank" style="text-decoration: none">website</a> </p>
+<p>using allah languages for coding</p>
+  <p> visit my <a href="https://adasiek.fun" target="_blank">website</a> pls</p>  
 
 ![](https://komarev.com/ghpvc/?username=adasiek193&color=blue)
