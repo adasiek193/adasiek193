@@ -4,4 +4,5 @@
   <span> visit my <a href="https://adasiek.fun" target="_blank">website</a> pls</span>  
 
 ![](https://komarev.com/ghpvc/?username=adasiek193&color=blue)
-<iframe  src="https://discord.c99.nl/widget/theme-4/423863646133682187.png">
+<img src="https://discord.c99.nl/widget/theme-4/423863646133682187.png">
+
