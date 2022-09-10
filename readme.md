@@ -1,4 +1,4 @@
-<h1> hi im adasiek, professional skid and non professional apex legends bot<h1>
+<h1> hi 🙋‍♂️<h1>
 
 <h4>using jesus languages for coding</h4>
   <h5> visit my <a href="https://adasiek.fun" target="_blank">website</a> pls</h5>  
